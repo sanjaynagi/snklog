@@ -4,11 +4,10 @@
 
 ## Features
 
-- print failed logs to stdout (snklog -fv)
+- print failed logs to stdout (snklog fv)
 - List recent Snakemake and Slurm log files
 - Tail log files with optional follow mode
 - Open log files in the `less` pager
-- Print failed rule logs
 - Simple and intuitive command syntax
 
 ## Installation
