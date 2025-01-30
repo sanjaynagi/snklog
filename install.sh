@@ -4,7 +4,7 @@
 mkdir -p ~/.local/bin
 
 # Download the script
-curl -sSL https://raw.githubusercontent.com/vsbuffalo/snklog/main/snklog/main.py -o ~/.local/bin/snklog
+curl -sSL https://raw.githubusercontent.com/sanjaynagi/snklog/main/snklog/main.py -o ~/.local/bin/snklog
 
 # Make it executable
 chmod +x ~/.local/bin/snklog
