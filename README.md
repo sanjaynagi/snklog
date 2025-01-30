@@ -4,6 +4,7 @@
 
 ## Features
 
+- print failed logs to stdout (snklog -fv)
 - List recent Snakemake and Slurm log files
 - Tail log files with optional follow mode
 - Open log files in the `less` pager
@@ -16,7 +17,7 @@ install `snklog` directly to your `~/.local/bin` directory (it will create this 
 with a single command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/vsbuffalo/snklog/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/sanjaynagi/snklog/main/install.sh | bash
 ```
 
 ## About
